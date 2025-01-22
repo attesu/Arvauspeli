@@ -1,0 +1,42 @@
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\bin\Debug\net8.0\satunnainennumero.exe
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\bin\Debug\net8.0\satunnainennumero.deps.json
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\bin\Debug\net8.0\satunnainennumero.runtimeconfig.json
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\bin\Debug\net8.0\satunnainennumero.dll
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\bin\Debug\net8.0\satunnainennumero.pdb
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.AssemblyInfo.cs
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.dll
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\refint\satunnainennumero.dll
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.pdb
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.genruntimeconfig.cache
+C:\Users\OMISTAJA\Desktop\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\ref\satunnainennumero.dll
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\bin\Debug\net8.0\satunnainennumero.exe
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\bin\Debug\net8.0\satunnainennumero.deps.json
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\bin\Debug\net8.0\satunnainennumero.runtimeconfig.json
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\bin\Debug\net8.0\satunnainennumero.dll
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\bin\Debug\net8.0\satunnainennumero.pdb
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.AssemblyInfo.cs
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.dll
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\refint\satunnainennumero.dll
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.pdb
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\satunnainennumero.genruntimeconfig.cache
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\satunnainennumero\obj\Debug\net8.0\ref\satunnainennumero.dll
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\bin\Debug\net8.0\satunnainennumero.exe
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\bin\Debug\net8.0\satunnainennumero.deps.json
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\bin\Debug\net8.0\satunnainennumero.runtimeconfig.json
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\bin\Debug\net8.0\satunnainennumero.dll
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\bin\Debug\net8.0\satunnainennumero.pdb
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\obj\Debug\net8.0\satunnainennumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\obj\Debug\net8.0\satunnainennumero.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\obj\Debug\net8.0\satunnainennumero.AssemblyInfo.cs
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\obj\Debug\net8.0\satunnainennumero.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\obj\Debug\net8.0\satunnainennumero.dll
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\obj\Debug\net8.0\refint\satunnainennumero.dll
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\obj\Debug\net8.0\satunnainennumero.pdb
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\obj\Debug\net8.0\satunnainennumero.genruntimeconfig.cache
+C:\Users\OMISTAJA\OneDrive - Satakunnan ammattikorkeakoulu Oy\Syksy2023\Ohjelmointi 1\Arvauspeli\obj\Debug\net8.0\ref\satunnainennumero.dll
